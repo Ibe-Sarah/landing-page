@@ -130,9 +130,9 @@ p {
     
 }
 .up {
-    padding: 0em 2em 0em 2em;
+    padding: 0em 1em 0em 1em;
     margin-left: 200px;
     border-color: white;
-    font-size: 20px;
+    font-size: 15px;
     border-radius: 22px;
 }
